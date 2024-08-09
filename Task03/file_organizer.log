@@ -1,0 +1,364 @@
+2024-07-29 15:05:34,238 - root - INFO - Files organized in directory: C:/Users/PMLS/Desktop/FilesToOrganize
+2024-07-29 15:05:44,077 - root - INFO - Files organized in directory: C:/Users/PMLS/Desktop/FilesToOrganize
+2024-07-29 15:06:14,972 - root - INFO - Resizing images in directory: C:/Users/PMLS/Desktop/FilesToOrganize
+2024-07-29 15:06:15,256 - root - ERROR - Error resizing image image.jpg: cannot identify image file 'C:\\Users\\PMLS\\Desktop\\FilesToOrganize\\image.jpg'
+2024-07-29 15:06:15,256 - root - ERROR - Error resizing image picture.png: cannot identify image file 'C:\\Users\\PMLS\\Desktop\\FilesToOrganize\\picture.png'
+2024-07-29 15:06:24,429 - root - INFO - Number of files in directory C:/Users/PMLS/Desktop/FilesToOrganize: 11
+2024-07-29 15:06:34,760 - root - INFO - Files in directory C:/Users/PMLS/Desktop/FilesToOrganize: ['archive.zip', 'clip.mov', 'compressed.tar', 'document.docx', 'example.pdf', 'image.jpg', 'music.wav', 'picture.png', 'song.mp3', 'text.txt', 'video.mp4']
+2024-07-29 15:06:40,714 - root - INFO - Disk usage for directory C:/Users/PMLS/Desktop/FilesToOrganize: usage(total=255388270592, used=78550286336, free=176837984256)
+2024-07-29 15:06:49,197 - root - INFO - Performing system maintenance for OS: Windows
+2024-07-29 15:06:49,197 - root - INFO - Running Windows system maintenance tasks...
+2024-07-29 15:06:59,265 - root - INFO - Disk usage for directory C:/Users/PMLS/Desktop/FilesToOrganize: usage(total=255388270592, used=78550388736, free=176837881856)
+2024-07-29 15:06:59,265 - root - INFO - System report: {'OS': 'Windows', 'OS Version': '10.0.19045', 'Processor': 'Intel64 Family 6 Model 154 Stepping 4, GenuineIntel', 'Memory': svmem(total=8301043712, available=3400880128, percent=59.0, used=4900163584, free=3400880128), 'Disk Usage': usage(total=255388270592, used=78550388736, free=176837881856)}
+2024-07-29 15:07:19,019 - root - INFO - Deleting files in directory: C:/Users/PMLS/Desktop/FilesToOrganize
+2024-07-29 15:07:19,019 - root - INFO - Deleted file: text.txt
+2024-07-29 15:07:26,778 - root - INFO - Number of files in directory C:/Users/PMLS/Desktop/FilesToOrganize: 10
+2024-07-29 15:15:37,346 - root - INFO - Files organized in directory: C:/Users/PMLS/Desktop/FilesToOrganize
+2024-07-29 15:15:53,171 - root - INFO - Resizing images in directory: C:/Users/PMLS/Desktop/FilesToOrganize
+2024-07-29 15:15:53,254 - root - INFO - Resized image: cat.jpg
+2024-07-29 15:15:53,393 - root - INFO - Resized image: wallpaper.jpg
+2024-07-29 15:17:05,437 - root - INFO - Resizing images in directory: C:/Users/PMLS/Desktop/FilesToOrganize
+2024-07-29 15:17:05,517 - root - INFO - Resized image: cat.jpg
+2024-07-29 15:17:05,533 - root - INFO - Resized image: wallpaper.jpg
+2024-07-29 15:23:26,924 - root - INFO - Resized image C:/Users/PMLS/Desktop/FilesToOrganize\JPG\cat.jpg to 500x500.
+2024-07-29 15:23:26,942 - root - INFO - Resized image C:/Users/PMLS/Desktop/FilesToOrganize\JPG\wallpaper.jpg to 500x500.
+2024-08-08 11:29:33,311 - root - INFO - Resized image C:/Users/PMLS/Desktop/FilesToOrganize\JPG\cat.jpg to 400x500.
+2024-08-08 11:29:33,339 - root - INFO - Resized image C:/Users/PMLS/Desktop/FilesToOrganize\JPG\wallpaper.jpg to 400x500.
+2024-08-08 11:30:16,835 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\.ses.
+2024-08-08 11:30:16,836 - root - ERROR - Error deleting temp file 0768aecd-6366-47c3-a26d-e28dc5f3b4a4.tmp: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\PMLS\\AppData\\Local\\Temp\\0768aecd-6366-47c3-a26d-e28dc5f3b4a4.tmp'
+2024-08-08 11:30:16,837 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\byteBuddyAgent14773367002082190174.jar.
+2024-08-08 11:30:16,838 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\CEP11-ILST.log.
+2024-08-08 11:30:16,839 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\CEPHtmlEngine11-ILST-28.4.1-com.adobe.illustrator.OnBoarding-renderer.log.
+2024-08-08 11:30:16,840 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\CEPHtmlEngine11-ILST-28.4.1-com.adobe.illustrator.OnBoarding.log.
+2024-08-08 11:30:16,841 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\cv_debug.log.
+2024-08-08 11:30:16,843 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\DESKTOP-8BL3MIG-20240801-0729.log.
+2024-08-08 11:30:16,844 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\DESKTOP-8BL3MIG-20240802-1404.log.
+2024-08-08 11:30:16,845 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\DESKTOP-8BL3MIG-20240804-0908.log.
+2024-08-08 11:30:16,846 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\DESKTOP-8BL3MIG-20240804-0911.log.
+2024-08-08 11:30:16,847 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\DESKTOP-8BL3MIG-20240804-1009.log.
+2024-08-08 11:30:16,848 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\DESKTOP-8BL3MIG-20240805-1446.log.
+2024-08-08 11:30:16,849 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\DESKTOP-8BL3MIG-20240807-0729.log.
+2024-08-08 11:30:16,850 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\DESKTOP-8BL3MIG-20240807-0730.log.
+2024-08-08 11:30:16,851 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\DESKTOP-8BL3MIG-20240808-1011.log.
+2024-08-08 11:30:16,853 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\DESKTOP-8BL3MIG-20240808-1054.log.
+2024-08-08 11:30:16,855 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\DOC-20240804-WA0001.dat.
+2024-08-08 11:30:16,858 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\IMG-20240807-WA0002.jpg.
+2024-08-08 11:30:16,861 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\index.html.
+2024-08-08 11:30:16,862 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\JavaLauncher.log.
+2024-08-08 11:30:16,864 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wct2252.tmp.
+2024-08-08 11:30:16,865 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wct24B8.tmp.
+2024-08-08 11:30:16,867 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wct25C5.tmp.
+2024-08-08 11:30:16,869 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wct27B9.tmp.
+2024-08-08 11:30:16,871 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wct2BEE.tmp.
+2024-08-08 11:30:16,873 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wct2D69.tmp.
+2024-08-08 11:30:16,875 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wct2FA1.tmp.
+2024-08-08 11:30:16,877 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wct3778.tmp.
+2024-08-08 11:30:16,879 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wct3A2A.tmp.
+2024-08-08 11:30:16,881 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wct42D3.tmp.
+2024-08-08 11:30:16,883 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wct4EAC.tmp.
+2024-08-08 11:30:16,885 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wct50A3.tmp.
+2024-08-08 11:30:16,886 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wct61B4.tmp.
+2024-08-08 11:30:16,887 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wct6574.tmp.
+2024-08-08 11:30:16,889 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wct6650.tmp.
+2024-08-08 11:30:16,890 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wct70AD.tmp.
+2024-08-08 11:30:16,891 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wct7690.tmp.
+2024-08-08 11:30:16,893 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wct7691.tmp.
+2024-08-08 11:30:16,894 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wct7750.tmp.
+2024-08-08 11:30:16,895 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wct7F46.tmp.
+2024-08-08 11:30:16,896 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wct8165.tmp.
+2024-08-08 11:30:16,897 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wct82BC.tmp.
+2024-08-08 11:30:16,897 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wct86E3.tmp.
+2024-08-08 11:30:16,898 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wct8807.tmp.
+2024-08-08 11:30:16,899 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wct8817.tmp.
+2024-08-08 11:30:16,900 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wct9397.tmp.
+2024-08-08 11:30:16,900 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wct954E.tmp.
+2024-08-08 11:30:16,901 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wct9B55.tmp.
+2024-08-08 11:30:16,901 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wctA1C.tmp.
+2024-08-08 11:30:16,902 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wctA48B.tmp.
+2024-08-08 11:30:16,903 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wctACD8.tmp.
+2024-08-08 11:30:16,903 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wctAD0D.tmp.
+2024-08-08 11:30:16,904 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wctB04E.tmp.
+2024-08-08 11:30:16,904 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wctC0AF.tmp.
+2024-08-08 11:30:16,905 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wctD092.tmp.
+2024-08-08 11:30:16,905 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wctDA7F.tmp.
+2024-08-08 11:30:16,906 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wctDB11.tmp.
+2024-08-08 11:30:16,906 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wctE1C6.tmp.
+2024-08-08 11:30:16,907 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wctE705.tmp.
+2024-08-08 11:30:16,907 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wctE706.tmp.
+2024-08-08 11:30:16,908 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wctE86.tmp.
+2024-08-08 11:30:16,909 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wctF101.tmp.
+2024-08-08 11:30:16,910 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\wctFFDA.tmp.
+2024-08-08 11:30:16,910 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\~DF0B517289B6BE6B0E.TMP.
+2024-08-08 11:30:16,910 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\~DF53DCF0018438570F.TMP.
+2024-08-08 11:30:16,911 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\~DF6685637D1577E2D1.TMP.
+2024-08-08 11:30:16,911 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\~DF6E009D75D6FF1BD2.TMP.
+2024-08-08 11:30:16,912 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\~DF80CA87107D17BDF5.TMP.
+2024-08-08 11:30:16,912 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\~DF8DAA06FEA42FFC38.TMP.
+2024-08-08 11:30:16,913 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\~DFACC1C31697C9A31D.TMP.
+2024-08-08 11:30:16,913 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\~DFB9D44F3AA98196BE.TMP.
+2024-08-08 11:30:16,913 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\~DFC0E38C356C6757C5.TMP.
+2024-08-08 11:30:16,914 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\~DFC282A34C2198EC38.TMP.
+2024-08-08 11:30:16,914 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\~DFCF0C0589B917CD10.TMP.
+2024-08-08 11:30:16,914 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\~DFCFF0DABC013961C3.TMP.
+2024-08-08 11:30:16,915 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\~DFD1E72E7BB713C02A.TMP.
+2024-08-08 11:30:16,915 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\~DFD917009EC0F0EF22.TMP.
+2024-08-08 11:30:16,915 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\~DFF81C8B856EDB38C6.TMP.
+2024-08-08 11:30:16,924 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\Adobe\com.adobe.dunamis\dunamis-2024-07-30_09-48-21.log.
+2024-08-08 11:30:16,924 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\Adobe\com.adobe.dunamis\dunamis-2024-07-30_09-55-02.log.
+2024-08-08 11:30:16,926 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\Adobe\com.adobe.dunamis\dunamis-2024-07-30_09-56-31.log.
+2024-08-08 11:30:16,927 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\Adobe\com.adobe.dunamis\dunamis-2024-07-31_10-20-38.log.
+2024-08-08 11:30:16,932 - root - ERROR - Error deleting temp file AdobeIPCBroker.log: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\PMLS\\AppData\\Local\\Temp\\AdobeVulcan\\AdobeIPCBroker.log'
+2024-08-08 11:30:16,934 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1722589691455.ai.json.
+2024-08-08 11:30:16,934 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1722589705542.ai.json.
+2024-08-08 11:30:16,935 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1722749353590.ai.json.
+2024-08-08 11:30:16,935 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1722854181688.ai.json.
+2024-08-08 11:30:16,936 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1722854181689.ai.json.
+2024-08-08 11:30:16,936 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1722854347262.ai.json.
+2024-08-08 11:30:16,937 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1722854435898.ai.json.
+2024-08-08 11:30:16,937 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1722854902442.ai.json.
+2024-08-08 11:30:16,938 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1722868145932.ai.json.
+2024-08-08 11:30:16,938 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1722868242081.ai.json.
+2024-08-08 11:30:16,939 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1722868284864.ai.json.
+2024-08-08 11:30:16,939 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1722868360344.ai.json.
+2024-08-08 11:30:16,939 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1722868389204.ai.json.
+2024-08-08 11:30:16,940 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1722868505095.ai.json.
+2024-08-08 11:30:16,940 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1722868530920.ai.json.
+2024-08-08 11:30:16,941 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1722868585116.ai.json.
+2024-08-08 11:30:16,941 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1722868673671.ai.json.
+2024-08-08 11:30:16,942 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1722870022087.ai.json.
+2024-08-08 11:30:16,943 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1722870022088.ai.json.
+2024-08-08 11:30:16,944 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1722870080786.ai.json.
+2024-08-08 11:30:16,944 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1722870200674.ai.json.
+2024-08-08 11:30:16,945 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1722870319869.ai.json.
+2024-08-08 11:30:16,946 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1722912208638.ai.json.
+2024-08-08 11:30:16,946 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1722912208719.ai.json.
+2024-08-08 11:30:16,947 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1722914007524.ai.json.
+2024-08-08 11:30:16,947 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1722914007926.ai.json.
+2024-08-08 11:30:16,948 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1723026548012.ai.json.
+2024-08-08 11:30:16,948 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1723026548024.ai.json.
+2024-08-08 11:30:16,949 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1723028359450.ai.json.
+2024-08-08 11:30:16,949 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1723028393359.ai.json.
+2024-08-08 11:30:16,950 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1723094574755.ai.json.
+2024-08-08 11:30:16,950 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1723094589842.ai.json.
+2024-08-08 11:30:16,951 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1723095110652.ai.json.
+2024-08-08 11:30:16,951 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1723096658399.ai.json.
+2024-08-08 11:30:16,951 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1723097440573.ai.json.
+2024-08-08 11:30:16,952 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1723097440581.ai.json.
+2024-08-08 11:30:16,952 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1723097869954.ai.json.
+2024-08-08 11:30:16,953 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1723097870670.ai.json.
+2024-08-08 11:30:16,953 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1723098407290.ai.json.
+2024-08-08 11:30:16,969 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\appInsights-nodeAIF-d9b70cd4-b9f9-4d70-929b-a071c400b217\1723098407658.ai.json.
+2024-08-08 11:30:16,976 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\cep_cache\ILST_28.4.1_com.adobe.illustrator.OnBoarding\000003.log.
+2024-08-08 11:30:16,977 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\cep_cache\ILST_28.4.1_com.adobe.illustrator.OnBoarding\CURRENT.
+2024-08-08 11:30:16,978 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\cep_cache\ILST_28.4.1_com.adobe.illustrator.OnBoarding\LocalPrefs.json.
+2024-08-08 11:30:16,979 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\cep_cache\ILST_28.4.1_com.adobe.illustrator.OnBoarding\LOCK.
+2024-08-08 11:30:16,979 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\cep_cache\ILST_28.4.1_com.adobe.illustrator.OnBoarding\LOG.
+2024-08-08 11:30:16,980 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\cep_cache\ILST_28.4.1_com.adobe.illustrator.OnBoarding\LOG.old.
+2024-08-08 11:30:16,981 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\cep_cache\ILST_28.4.1_com.adobe.illustrator.OnBoarding\MANIFEST-000001.
+2024-08-08 11:30:16,981 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\cep_cache\ILST_28.4.1_com.adobe.illustrator.OnBoarding\Network Persistent State.
+2024-08-08 11:30:16,982 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\cep_cache\ILST_28.4.1_com.adobe.illustrator.OnBoarding\Visited Links.
+2024-08-08 11:30:16,984 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\cep_cache\ILST_28.4.1_com.adobe.illustrator.OnBoarding\Code Cache\js\index.
+2024-08-08 11:30:16,985 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\cep_cache\ILST_28.4.1_com.adobe.illustrator.OnBoarding\Code Cache\js\index-dir\the-real-index.
+2024-08-08 11:30:16,985 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\cep_cache\ILST_28.4.1_com.adobe.illustrator.OnBoarding\Code Cache\wasm\index.
+2024-08-08 11:30:16,986 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\cep_cache\ILST_28.4.1_com.adobe.illustrator.OnBoarding\Code Cache\wasm\index-dir\the-real-index.
+2024-08-08 11:30:16,987 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\cep_cache\ILST_28.4.1_com.adobe.illustrator.OnBoarding\GPUCache\data_0.
+2024-08-08 11:30:16,987 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\cep_cache\ILST_28.4.1_com.adobe.illustrator.OnBoarding\GPUCache\data_1.
+2024-08-08 11:30:16,988 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\cep_cache\ILST_28.4.1_com.adobe.illustrator.OnBoarding\GPUCache\data_2.
+2024-08-08 11:30:16,988 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\cep_cache\ILST_28.4.1_com.adobe.illustrator.OnBoarding\GPUCache\data_3.
+2024-08-08 11:30:16,989 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\cep_cache\ILST_28.4.1_com.adobe.illustrator.OnBoarding\GPUCache\index.
+2024-08-08 11:30:16,989 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\cep_cache\ILST_28.4.1_com.adobe.illustrator.OnBoarding\Session Storage\000003.log.
+2024-08-08 11:30:16,990 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\cep_cache\ILST_28.4.1_com.adobe.illustrator.OnBoarding\Session Storage\CURRENT.
+2024-08-08 11:30:16,990 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\cep_cache\ILST_28.4.1_com.adobe.illustrator.OnBoarding\Session Storage\LOCK.
+2024-08-08 11:30:16,991 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\cep_cache\ILST_28.4.1_com.adobe.illustrator.OnBoarding\Session Storage\LOG.
+2024-08-08 11:30:16,991 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\cep_cache\ILST_28.4.1_com.adobe.illustrator.OnBoarding\Session Storage\LOG.old.
+2024-08-08 11:30:16,992 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\cep_cache\ILST_28.4.1_com.adobe.illustrator.OnBoarding\Session Storage\MANIFEST-000001.
+2024-08-08 11:30:16,993 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\chrome_BITS_8908_1609305507\f645b25161e50f820328039cf28ff33afb48083ef26a42b775879d673dcfb6d3.
+2024-08-08 11:30:16,995 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\CreativeCloud\CCX Welcome\CCX Process.log.
+2024-08-08 11:30:17,005 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\CreativeCloud\Creative Cloud Libraries\CC Library Process (prev).log.
+2024-08-08 11:30:17,007 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\CreativeCloud\Creative Cloud Libraries\CC Library Process.log.
+2024-08-08 11:30:17,008 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\Diagnostics\WINWORD\App_1722493642399251700_FA39153E-2768-46E7-9828-FC3F3C065CD3.log.
+2024-08-08 11:30:17,009 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\Diagnostics\WINWORD\App_1722502661408383400_8CD6B351-AFCB-435A-B164-BDA6AFA23810.log.
+2024-08-08 11:30:17,010 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\Diagnostics\WINWORD\App_1722502661409392200_8CD6B351-AFCB-435A-B164-BDA6AFA23810.log.
+2024-08-08 11:30:17,011 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\jna-76263555\jna4676586668543841754.dll.
+2024-08-08 11:30:17,011 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\jna-76263555\jna4676586668543841754.dll.x.
+2024-08-08 11:30:17,011 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\jna-76263555\jna9922470631308305843.dll.
+2024-08-08 11:30:17,012 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\jna-76263555\jna9922470631308305843.dll.x.
+2024-08-08 11:30:17,013 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\ksohtml7080\wps1.png.
+2024-08-08 11:30:17,013 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\ksohtml7080\wps2.png.
+2024-08-08 11:30:17,014 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\NGL\NGLClient_CCLibrary24.4 2024-07-31 15-20-57-949.log.
+2024-08-08 11:30:17,014 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\NGL\NGLClient_CCLibrary24.4.log.
+2024-08-08 11:30:17,015 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\NGL\NGLClient_CCXProcess15.3 2024-07-30 10-47-19-429.log.
+2024-08-08 11:30:17,015 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\NGL\NGLClient_CCXProcess15.3 2024-07-30 14-27-04-275.log.
+2024-08-08 11:30:17,015 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\NGL\NGLClient_CCXProcess15.3 2024-07-31 13-58-40-392.log.
+2024-08-08 11:30:17,016 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\NGL\NGLClient_CCXProcess15.3 2024-07-31 17-03-20-812.log.
+2024-08-08 11:30:17,016 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\NGL\NGLClient_CCXProcess15.3 2024-07-31 17-04-24-782.log.
+2024-08-08 11:30:17,016 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\NGL\NGLClient_CCXProcess15.3 2024-08-01 07-29-49-952.log.
+2024-08-08 11:30:17,017 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\NGL\NGLClient_CCXProcess15.3 2024-08-01 13-56-15-106.log.
+2024-08-08 11:30:17,017 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\NGL\NGLClient_CCXProcess15.3 2024-08-02 14-01-22-965.log.
+2024-08-08 11:30:17,017 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\NGL\NGLClient_CCXProcess15.3 2024-08-04 09-08-51-722.log.
+2024-08-08 11:30:17,018 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\NGL\NGLClient_CCXProcess15.3 2024-08-04 11-38-03-157.log.
+2024-08-08 11:30:17,018 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\NGL\NGLClient_CCXProcess15.3 2024-08-04 13-56-15-274.log.
+2024-08-08 11:30:17,018 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\NGL\NGLClient_CCXProcess15.3 2024-08-04 18-13-07-750.log.
+2024-08-08 11:30:17,019 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\NGL\NGLClient_CCXProcess15.3 2024-08-04 19-45-13-930.log.
+2024-08-08 11:30:17,019 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\NGL\NGLClient_CCXProcess15.3 2024-08-05 08-02-29-350.log.
+2024-08-08 11:30:17,019 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\NGL\NGLClient_CCXProcess15.3 2024-08-05 14-23-03-121.log.
+2024-08-08 11:30:17,019 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\NGL\NGLClient_CCXProcess15.3 2024-08-05 19-24-35-648.log.
+2024-08-08 11:30:17,020 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\NGL\NGLClient_CCXProcess15.3 2024-08-06 07-41-58-898.log.
+2024-08-08 11:30:17,020 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\NGL\NGLClient_CCXProcess15.3 2024-08-07 07-26-59-887.log.
+2024-08-08 11:30:17,020 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\NGL\NGLClient_CCXProcess15.3 2024-08-07 11-28-06-770.log.
+2024-08-08 11:30:17,021 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\NGL\NGLClient_CCXProcess15.3 2024-08-07 14-07-03-765.log.
+2024-08-08 11:30:17,021 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\NGL\NGLClient_CCXProcess15.3 2024-08-08 10-06-54-915.log.
+2024-08-08 11:30:17,021 - root - ERROR - Error deleting temp file NGLClient_CCXProcess15.3.log: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\PMLS\\AppData\\Local\\Temp\\NGL\\NGLClient_CCXProcess15.3.log'
+2024-08-08 11:30:17,022 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\NGL\NGLClient_Illustrator128.4.1 2024-07-30 14-54-58-598.log.
+2024-08-08 11:30:17,022 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\NGL\NGLClient_Illustrator128.4.1 2024-07-30 14-56-29-953.log.
+2024-08-08 11:30:17,022 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\NGL\NGLClient_Illustrator128.4.1 2024-07-31 15-20-37-350.log.
+2024-08-08 11:30:17,022 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\NGL\NGLClient_Illustrator128.4.1.log.
+2024-08-08 11:30:17,024 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\Rar$EXa8304.33330.rartemp\Task1 Portfolio Website\index.html.
+2024-08-08 11:30:17,025 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\Rar$EXa8304.33330.rartemp\Task1 Portfolio Website\css\style.css.
+2024-08-08 11:30:17,026 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\Rar$EXa8304.33330.rartemp\Task1 Portfolio Website\images\home01.jpg.
+2024-08-08 11:30:17,032 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\vscode-stable-user-x64\CodeSetup-stable-b1c0a14de1414fcdaa400695b4db1c0799bc3124.exe.tmp.
+2024-08-08 11:30:17,032 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\vscode-typescript\c2627702cb17da6ef24d\tscancellation-a9b1e4db6c56a5732c28.tmp3.
+2024-08-08 11:30:17,033 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\vscode-typescript\c2627702cb17da6ef24d\tscancellation-a9b1e4db6c56a5732c28.tmp38.
+2024-08-08 11:30:17,078 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\CrashpadMetrics-active.pma.
+2024-08-08 11:30:17,078 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Last Version.
+2024-08-08 11:30:17,078 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Local State.
+2024-08-08 11:30:17,078 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Variations.
+2024-08-08 11:30:17,079 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\BrowserMetrics\BrowserMetrics-66B35417-57C.pma.
+2024-08-08 11:30:17,079 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Crashpad\metadata.
+2024-08-08 11:30:17,079 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Crashpad\settings.dat.
+2024-08-08 11:30:17,080 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Crashpad\throttle_store.dat.
+2024-08-08 11:30:17,080 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Favicons.
+2024-08-08 11:30:17,080 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Favicons-journal.
+2024-08-08 11:30:17,080 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\History.
+2024-08-08 11:30:17,080 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\History-journal.
+2024-08-08 11:30:17,081 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\LOCK.
+2024-08-08 11:30:17,081 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\LOG.
+2024-08-08 11:30:17,081 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Login Data.
+2024-08-08 11:30:17,081 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Login Data-journal.
+2024-08-08 11:30:17,081 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Preferences.
+2024-08-08 11:30:17,081 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\README.
+2024-08-08 11:30:17,081 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Secure Preferences.
+2024-08-08 11:30:17,081 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\SharedStorage.
+2024-08-08 11:30:17,081 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Visited Links.
+2024-08-08 11:30:17,082 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Web Data.
+2024-08-08 11:30:17,082 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Web Data-journal.
+2024-08-08 11:30:17,082 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Cache\Cache_Data\data_0.
+2024-08-08 11:30:17,082 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Cache\Cache_Data\data_1.
+2024-08-08 11:30:17,082 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Cache\Cache_Data\data_2.
+2024-08-08 11:30:17,083 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Cache\Cache_Data\data_3.
+2024-08-08 11:30:17,083 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Cache\Cache_Data\index.
+2024-08-08 11:30:17,083 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\ClientCertificates\LOCK.
+2024-08-08 11:30:17,083 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\ClientCertificates\LOG.
+2024-08-08 11:30:17,083 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Code Cache\js\index.
+2024-08-08 11:30:17,083 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Code Cache\js\index-dir\the-real-index.
+2024-08-08 11:30:17,083 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Code Cache\wasm\index.
+2024-08-08 11:30:17,084 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Code Cache\wasm\index-dir\the-real-index.
+2024-08-08 11:30:17,084 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\commerce_subscription_db\LOCK.
+2024-08-08 11:30:17,084 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\commerce_subscription_db\LOG.
+2024-08-08 11:30:17,084 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\DawnGraphiteCache\data_0.
+2024-08-08 11:30:17,084 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\DawnGraphiteCache\data_1.
+2024-08-08 11:30:17,084 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\DawnGraphiteCache\data_2.
+2024-08-08 11:30:17,084 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\DawnGraphiteCache\data_3.
+2024-08-08 11:30:17,084 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\DawnGraphiteCache\index.
+2024-08-08 11:30:17,084 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\DawnWebGPUCache\data_0.
+2024-08-08 11:30:17,085 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\DawnWebGPUCache\data_1.
+2024-08-08 11:30:17,085 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\DawnWebGPUCache\data_2.
+2024-08-08 11:30:17,085 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\DawnWebGPUCache\data_3.
+2024-08-08 11:30:17,085 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\DawnWebGPUCache\index.
+2024-08-08 11:30:17,085 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\discounts_db\LOCK.
+2024-08-08 11:30:17,085 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\discounts_db\LOG.
+2024-08-08 11:30:17,085 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\EdgeHubAppUsage\EdgeHubAppUsageSQLite.db.
+2024-08-08 11:30:17,085 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\EdgeHubAppUsage\EdgeHubAppUsageSQLite.db-journal.
+2024-08-08 11:30:17,086 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Extension Rules\000003.log.
+2024-08-08 11:30:17,086 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Extension Rules\CURRENT.
+2024-08-08 11:30:17,086 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Extension Rules\LOCK.
+2024-08-08 11:30:17,086 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Extension Rules\LOG.
+2024-08-08 11:30:17,086 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Extension Rules\MANIFEST-000001.
+2024-08-08 11:30:17,086 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Extension Scripts\000003.log.
+2024-08-08 11:30:17,086 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Extension Scripts\CURRENT.
+2024-08-08 11:30:17,086 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Extension Scripts\LOCK.
+2024-08-08 11:30:17,086 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Extension Scripts\LOG.
+2024-08-08 11:30:17,086 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Extension Scripts\MANIFEST-000001.
+2024-08-08 11:30:17,087 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Extension State\000003.log.
+2024-08-08 11:30:17,087 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Extension State\CURRENT.
+2024-08-08 11:30:17,087 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Extension State\LOCK.
+2024-08-08 11:30:17,087 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Extension State\LOG.
+2024-08-08 11:30:17,087 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Extension State\MANIFEST-000001.
+2024-08-08 11:30:17,087 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\GPUCache\data_0.
+2024-08-08 11:30:17,087 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\GPUCache\data_1.
+2024-08-08 11:30:17,087 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\GPUCache\data_2.
+2024-08-08 11:30:17,087 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\GPUCache\data_3.
+2024-08-08 11:30:17,087 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\GPUCache\index.
+2024-08-08 11:30:17,088 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Local Storage\leveldb\000003.log.
+2024-08-08 11:30:17,088 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Local Storage\leveldb\CURRENT.
+2024-08-08 11:30:17,088 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Local Storage\leveldb\LOCK.
+2024-08-08 11:30:17,088 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Local Storage\leveldb\LOG.
+2024-08-08 11:30:17,088 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Local Storage\leveldb\MANIFEST-000001.
+2024-08-08 11:30:17,088 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Network\Cookies.
+2024-08-08 11:30:17,088 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Network\Cookies-journal.
+2024-08-08 11:30:17,088 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Network\Network Persistent State.
+2024-08-08 11:30:17,089 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Network\NetworkDataMigrated.
+2024-08-08 11:30:17,089 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Network\Reporting and NEL.
+2024-08-08 11:30:17,089 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Network\Reporting and NEL-journal.
+2024-08-08 11:30:17,089 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Network\SCT Auditing Pending Reports.
+2024-08-08 11:30:17,089 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Network\Sdch Dictionaries.
+2024-08-08 11:30:17,089 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Network\Trust Tokens.
+2024-08-08 11:30:17,089 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Network\Trust Tokens-journal.
+2024-08-08 11:30:17,089 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\parcel_tracking_db\LOCK.
+2024-08-08 11:30:17,089 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\parcel_tracking_db\LOG.
+2024-08-08 11:30:17,090 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\PersistentOriginTrials\LOCK.
+2024-08-08 11:30:17,090 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\PersistentOriginTrials\LOG.
+2024-08-08 11:30:17,090 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Safe Browsing Network\NetworkDataMigrated.
+2024-08-08 11:30:17,090 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Safe Browsing Network\Safe Browsing Cookies.
+2024-08-08 11:30:17,090 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Safe Browsing Network\Safe Browsing Cookies-journal.
+2024-08-08 11:30:17,090 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Session Storage\000003.log.
+2024-08-08 11:30:17,090 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Session Storage\CURRENT.
+2024-08-08 11:30:17,090 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Session Storage\LOCK.
+2024-08-08 11:30:17,090 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Session Storage\LOG.
+2024-08-08 11:30:17,090 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Session Storage\MANIFEST-000001.
+2024-08-08 11:30:17,091 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Shared Dictionary\db.
+2024-08-08 11:30:17,091 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Shared Dictionary\db-journal.
+2024-08-08 11:30:17,091 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Shared Dictionary\cache\index.
+2024-08-08 11:30:17,091 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Shared Dictionary\cache\index-dir\the-real-index.
+2024-08-08 11:30:17,091 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\shared_proto_db\000003.log.
+2024-08-08 11:30:17,092 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\shared_proto_db\CURRENT.
+2024-08-08 11:30:17,092 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\shared_proto_db\LOCK.
+2024-08-08 11:30:17,092 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\shared_proto_db\LOG.
+2024-08-08 11:30:17,092 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\shared_proto_db\MANIFEST-000001.
+2024-08-08 11:30:17,092 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\shared_proto_db\metadata\000003.log.
+2024-08-08 11:30:17,092 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\shared_proto_db\metadata\CURRENT.
+2024-08-08 11:30:17,093 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\shared_proto_db\metadata\LOCK.
+2024-08-08 11:30:17,093 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\shared_proto_db\metadata\LOG.
+2024-08-08 11:30:17,093 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\shared_proto_db\metadata\MANIFEST-000001.
+2024-08-08 11:30:17,093 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Site Characteristics Database\000003.log.
+2024-08-08 11:30:17,093 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Site Characteristics Database\CURRENT.
+2024-08-08 11:30:17,093 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Site Characteristics Database\LOCK.
+2024-08-08 11:30:17,093 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Site Characteristics Database\LOG.
+2024-08-08 11:30:17,093 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Site Characteristics Database\MANIFEST-000001.
+2024-08-08 11:30:17,093 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Sync Data\LevelDB\000003.log.
+2024-08-08 11:30:17,094 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Sync Data\LevelDB\CURRENT.
+2024-08-08 11:30:17,094 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Sync Data\LevelDB\LOCK.
+2024-08-08 11:30:17,094 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Sync Data\LevelDB\LOG.
+2024-08-08 11:30:17,094 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\Default\Sync Data\LevelDB\MANIFEST-000001.
+2024-08-08 11:30:17,094 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\GraphiteDawnCache\data_0.
+2024-08-08 11:30:17,094 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\GraphiteDawnCache\data_1.
+2024-08-08 11:30:17,094 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\GraphiteDawnCache\data_2.
+2024-08-08 11:30:17,094 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\GraphiteDawnCache\data_3.
+2024-08-08 11:30:17,094 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\GraphiteDawnCache\index.
+2024-08-08 11:30:17,095 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\GrShaderCache\data_0.
+2024-08-08 11:30:17,095 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\GrShaderCache\data_1.
+2024-08-08 11:30:17,095 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\GrShaderCache\data_2.
+2024-08-08 11:30:17,095 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\GrShaderCache\data_3.
+2024-08-08 11:30:17,095 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\GrShaderCache\index.
+2024-08-08 11:30:17,095 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\ShaderCache\data_0.
+2024-08-08 11:30:17,095 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\ShaderCache\data_1.
+2024-08-08 11:30:17,095 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\ShaderCache\data_2.
+2024-08-08 11:30:17,095 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\ShaderCache\data_3.
+2024-08-08 11:30:17,095 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\ShaderCache\index.
+2024-08-08 11:30:17,096 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\SmartScreen\RemoteData\customSettings.
+2024-08-08 11:30:17,096 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\SmartScreen\RemoteData\customSettings_F95BA787499AB4FA9EFFF472CE383A14.
+2024-08-08 11:30:17,096 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\SmartScreen\RemoteData\edgeSettings.
+2024-08-08 11:30:17,096 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\SmartScreen\RemoteData\edgeSettings_2.0-0.
+2024-08-08 11:30:17,096 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\SmartScreen\RemoteData\topTraffic.
+2024-08-08 11:30:17,096 - root - INFO - Deleted temp file C:\Users\PMLS\AppData\Local\Temp\WinRAR.exe.WebView2\EBWebView\SmartScreen\RemoteData\topTraffic_170540185939602997400506234197983529371.
+2024-08-08 11:30:29,562 - root - INFO - System maintenance completed.
